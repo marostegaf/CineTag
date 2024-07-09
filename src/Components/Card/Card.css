@@ -1,0 +1,28 @@
+.container {
+    padding: 0 15px 1em 15px;
+    margin-top: .5em;
+    width: 182px;
+    background-color: var(--cinza);
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.capa {
+    width: 100%;
+}
+
+.container h2, .favoritar {
+    padding: 0 1em;
+}
+
+.favoritar {
+    width: 25px;
+    cursor: pointer;
+}
+
+.link-video {
+    text-decoration: none;
+    color: var(--preto);
+    text-align: left;
+}

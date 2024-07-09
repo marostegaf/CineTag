@@ -1,0 +1,5 @@
+.container-favoritos {
+    display: flex;
+    justify-content: space-around;
+    padding-bottom: 30vh;
+}
